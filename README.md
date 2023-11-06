@@ -17,7 +17,7 @@ I'm Pande I Gede Sudiahna, a passionate full-stack developer with a deep love fo
 
 #### Projects:
 
-🚀 https://portofolio-roan.vercel.app: my personal website
+🚀 https://dedeportofolio-roan.vercel.app/: my personal website
 🌟 https://ecom1.bosskreator.xyz/: my first react ecommerce project
 
 #### Connect with Me:
